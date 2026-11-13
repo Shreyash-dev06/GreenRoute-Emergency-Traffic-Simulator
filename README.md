@@ -112,20 +112,6 @@ GreenRoute is inspired by a hardware-plus-software emergency traffic management 
 
 **Note:** The browser game simulates these components locally. It does not currently imply a live connection to physical ESP32 hardware, GPS modules, an MQTT broker, or a production FastAPI backend.
 
-## 🛠️ Technology Stack
-
-| Technology | Purpose |
-|---|---|
-| React | User Interface |
-| Vite | Development and Build Tool |
-| TypeScript | Application Logic |
-| Three.js | 3D Graphics |
-| React Three Fiber | React-based 3D Rendering |
-| React Three Drei | 3D Utilities |
-| Lucide React | Interface Icons |
-| A* / Dijkstra | Route Pathfinding |
-| CSS | Styling and Interface Design |
-
 ## 🎯 Project Objectives
 
 - Demonstrate intelligent emergency vehicle traffic management.
