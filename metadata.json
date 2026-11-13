@@ -1,0 +1,6 @@
+{
+  "name": "GreenRoute: Emergency Traffic Priority Simulator",
+  "description": "Interactive 3D emergency vehicle traffic signal priority and coordination simulator demonstrating IoT-based GPS routing, safe signal clearance, and competing emergency arbitration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
